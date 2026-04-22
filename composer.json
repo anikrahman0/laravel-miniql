@@ -1,15 +1,26 @@
 {
-    "name": "yourvendor/miniql",
+    "name": "aponahmed/laravel-miniql",
     "description": "A Laravel GraphQL-lite internal query engine — single endpoint, schema-driven, N+1-safe, mutation-ready.",
     "type": "library",
     "license": "MIT",
-    "keywords": ["laravel", "graphql", "api", "query-engine", "rest"],
+    "keywords": [
+        "laravel",
+        "graphql",
+        "api",
+        "query-engine",
+        "rest"
+    ],
     "authors": [
         {
             "name": "Apon Ahmed",
             "email": "apon2041@gmail.com"
         }
     ],
+    "homepage": "https://github.com/AponAhmed/laravel-miniql",
+    "support": {
+        "issues": "https://github.com/AponAhmed/laravel-miniql/issues",
+        "source": "https://github.com/AponAhmed/laravel-miniql"
+    },
     "require": {
         "php": "^8.1",
         "illuminate/support": "^10.0|^11.0",
