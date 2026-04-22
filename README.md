@@ -1,4 +1,4 @@
-# MiniQL — Laravel GraphQL-Lite Query Engine
+# MiniQL — Laravel GraphQL-Lite Query Engine 
 
 [![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue)](https://www.php.net)
 [![Laravel](https://img.shields.io/badge/Laravel-10%2B%20|%2011%2B-red)](https://laravel.com)
