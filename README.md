@@ -68,7 +68,7 @@ A request looks like this:
 ## Installation
 
 ```bash
-composer require yourvendor/miniql
+composer require aponahmed/miniql
 ```
 
 Publish the config:
