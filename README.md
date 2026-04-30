@@ -68,7 +68,7 @@ A request looks like this:
 ## Installation
 
 ```bash
-composer require aponahmed/miniql
+composer require aponahmed/laravel-miniql
 ```
 
 Publish the config:
